@@ -64,7 +64,7 @@ nav:hover{
     }
     
 }
-@media (min-width: 358px) and (max-width:1000px){
+@media (min-width: 701px) and (max-width:1000px){
 .p1{
     height: 40em;
     margin-left: -800px;
@@ -86,7 +86,7 @@ nav:hover{
 
 }
 }
-@media (max-width: 357px) {
+@media (max-width: 700px) {
     .p1{
     height: 10px;
 margin-top: -200px;
@@ -100,9 +100,9 @@ margin-top: -200px;
    
     .q-a{
         margin-left: 19px;
-       font-size: 10px;
+       font-size: 15px;
        margin-top: 60px;
-       width: 200px;
+       width: 280px;
        
     }
     h1{
