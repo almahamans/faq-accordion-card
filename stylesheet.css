@@ -86,14 +86,14 @@ nav:hover{
 
 }
 }
-@media (max-width: 375px) {
+@media (max-width: 400px) {
     .p1{
     height: 10px;
 margin-top: -200px;
 
     }
     .p2{
-        height: 100px;
+        height: 150px;
         margin-left: 77em;
         margin-top: -400px;
     }
